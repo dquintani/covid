@@ -16,7 +16,7 @@ jobs:
       - name: setup python
         run: |
           python -m pip install --upgrade pip
-          pip install -r update/requirements.txt
+          pip install -r requirements.txt
       - name: run update script
         id: update-script
         run: |
