@@ -20,7 +20,7 @@ jobs:
       - name: run update script
         id: update-script
         run: |
-          echo ::set-output name=result::$(python update/update.py)
+          echo ::set-output name=result::$(python epidemiologia.py)
       - name: git status
         id: git-status
         run: |
