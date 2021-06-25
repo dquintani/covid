@@ -12,7 +12,7 @@ jobs:
     - name: Set up Python
       uses: |
         actions/setup-python@v1
-        pip install -r update/requirements.
+        pip install -r requirements.
     - uses: yaananth/run-notebook@v1
       env:
         RUNNER: ${{ toJson(runner) }}
