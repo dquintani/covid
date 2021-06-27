@@ -1,4 +1,4 @@
-name: Update graphs edu
+name: Update edu MANUAL
 on: 
   workflow_dispatch:
     inputs:
