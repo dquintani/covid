@@ -20,8 +20,7 @@ jobs:
       - name: run update script
         id: update-script
         run: |
-          echo ::set-output name=result::$(python epidemiologia.ipynb)
-      - name: git status
+          jupyter nbconvert --to notebook --inplace --execute epidemiologia.ipynb
         id: git-status
         run: |
           git config --global user.email "covid-bot@example.com"
