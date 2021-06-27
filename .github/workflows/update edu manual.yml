@@ -37,7 +37,7 @@ jobs:
         if: steps.git-status.outputs.result == 0
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          DATE: ${{ steps.update-script.outputs.result }}
+          DATE: ${{ steps.run_notebooks.outputs.result }}
         run: |
           git add -A
           git commit -m "[ci] $DATE"
