@@ -17,3 +17,4 @@ soupsieve==2.1
 urllib3==1.26.2
 Wand==0.6.5
 nbconvert==6.0.7
+notebook
