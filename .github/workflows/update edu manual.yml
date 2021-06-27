@@ -37,8 +37,7 @@ jobs:
         if: steps.git-status.outputs.result == 0
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          DATE: ${{ steps.run_notebooks.outputs.result }}
         run: |
           git add -A
-          git commit -m "[ci] $DATE"
+          git commit -m "[ci] yie"
           git push -q "https://$GH_TOKEN@github.com/dquintani/covid.git" main
