@@ -1,7 +1,7 @@
 name: Update graphs edu
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '1,2,5,6 * * * *'
 jobs:
   update:
     name: update data
