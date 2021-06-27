@@ -1,7 +1,7 @@
 name: Update graphs edu
 on:
   schedule:
-    - cron: '1,2,5,6 * * * *'
+    - cron: '20 * * * *'
 jobs:
   update:
     name: update data
@@ -26,7 +26,7 @@ jobs:
         run: |
           git config --global user.email "covid-bot@example.com"
           git config --global user.name "covid-bot"
-          echo ::set-output name=result::$(git status ./img/ | tr -d "\n" | grep -c "nothing to commit")
+          echo ::set-output name=result::$(git status ./ | tr -d "\n" | grep -c "nothing to commit")
       - name: commit
         if: steps.git-status.outputs.result == 0
         env:
@@ -34,4 +34,4 @@ jobs:
         run: |
           git add -A
           git commit -m "[ci] actualización"
-          git push -q "https://$GH_TOKEN@github.com/dquintani/covid.git" master
+          git push -q "https://$GH_TOKEN@github.com/dquintani/covid.git" main
