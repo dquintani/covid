@@ -10,10 +10,3 @@ Gráficas de Diego Acevedo Quintanilla (BoliGráfica)
 
 
 <p><a href="graficas/resumen_nacional.jpg?raw=true"><img src="graficas/resumen_nacional.jpg" width="800" title="Resumen nacional"></a>
-
-  
-  Welcome to the covid wiki!
-
-# THIS IS EXITING!
-
-* ALSO, nice [link](www.boligrafica.com)
