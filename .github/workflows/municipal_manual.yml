@@ -1,4 +1,4 @@
-name: Update edu MANUAL
+name: municipal MANUAL
 on: 
   workflow_dispatch:
     inputs:
