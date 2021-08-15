@@ -1,4 +1,4 @@
-name: Update graphs edu
+name: municipal 5 horas
 on:
   schedule:
     - cron: '* 5 * * *'
