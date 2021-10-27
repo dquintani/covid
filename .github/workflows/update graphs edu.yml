@@ -34,5 +34,5 @@ jobs:
           DATE: ${{ steps.update-script.outputs.result }}
         run: |
           git add -A
-          git commit -m "[ci] $(date +%Y-%M-%d)"
+          git commit -m "[ci] $DATE"
           git push -q "https://$GH_TOKEN@github.com/dquintani/covid.git" main
