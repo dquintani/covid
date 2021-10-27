@@ -19,3 +19,4 @@ Wand==0.6.5
 nbconvert==6.0.7
 notebook==6.1.4
 matplotlib==3.4.3
+seaborn
