@@ -1,17 +1,20 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Desaguadero,2020-08-21,20804,3,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-01-17,20804,9,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-01-23,20804,5,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-02-05,20804,3,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-02-20,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-04-03,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-04-17,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-05-04,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-06-12,20804,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-07-05,20804,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-07-16,20804,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-08-17,20804,4,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-08-25,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-09-07,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-09-11,20804,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
-Desaguadero,2021-09-19,20804,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20804,2020-08-21,Desaguadero,3,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-01-17,Desaguadero,9,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-01-23,Desaguadero,5,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-02-05,Desaguadero,3,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-02-20,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-04-03,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-04-17,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-05-04,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-06-12,Desaguadero,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-07-05,Desaguadero,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-07-16,Desaguadero,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-08-17,Desaguadero,4,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-08-25,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-09-07,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-09-11,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-09-19,Desaguadero,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-10-05,Desaguadero,2,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-10-17,Desaguadero,4,Desaguadero,La Paz,56.9511301856874,7708,58.2
+20804,2021-10-21,Desaguadero,1,Desaguadero,La Paz,56.9511301856874,7708,58.2

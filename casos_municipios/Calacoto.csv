@@ -1,7 +1,7 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Calacoto,2020-08-07,20303,1,Calacoto,La Paz,46.186976121228106,10203,0.0
-Calacoto,2020-08-27,20303,2,Calacoto,La Paz,46.186976121228106,10203,0.0
-Calacoto,2020-09-02,20303,1,Calacoto,La Paz,46.186976121228106,10203,0.0
-Calacoto,2021-01-22,20303,2,Calacoto,La Paz,46.186976121228106,10203,0.0
-Calacoto,2021-02-02,20303,1,Calacoto,La Paz,46.186976121228106,10203,0.0
-Calacoto,2021-02-12,20303,2,Calacoto,La Paz,46.186976121228106,10203,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20303,2020-08-07,Calacoto,1,Calacoto,La Paz,46.186976121228106,10203,0.0
+20303,2020-08-27,Calacoto,2,Calacoto,La Paz,46.186976121228106,10203,0.0
+20303,2020-09-02,Calacoto,1,Calacoto,La Paz,46.186976121228106,10203,0.0
+20303,2021-01-22,Calacoto,2,Calacoto,La Paz,46.186976121228106,10203,0.0
+20303,2021-02-02,Calacoto,1,Calacoto,La Paz,46.186976121228106,10203,0.0
+20303,2021-02-12,Calacoto,2,Calacoto,La Paz,46.186976121228106,10203,0.0

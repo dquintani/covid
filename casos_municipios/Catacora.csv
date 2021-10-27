@@ -1,8 +1,8 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Catacora,2020-09-12,21902,1,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-06-01,21902,2,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-06-02,21902,2,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-06-05,21902,6,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-06-19,21902,12,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-06-20,21902,1,Catacora,La Paz,50.9773586337158,3891,0.0
-Catacora,2021-07-10,21902,1,Catacora,La Paz,50.9773586337158,3891,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+21902,2020-09-12,Catacora,1,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-06-01,Catacora,2,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-06-02,Catacora,2,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-06-05,Catacora,6,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-06-19,Catacora,12,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-06-20,Catacora,1,Catacora,La Paz,50.9773586337158,3891,0.0
+21902,2021-07-10,Catacora,1,Catacora,La Paz,50.9773586337158,3891,0.0

@@ -1,14 +1,14 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Huarina,2020-07-08,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-05-29,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-06-02,20203,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-06-03,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-06-12,20203,7,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-06-18,20203,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-06-19,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-07-06,20203,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-07-14,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-07-21,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-08-25,20203,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-08-31,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
-Huarina,2021-09-03,20203,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20203,2020-07-08,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-05-29,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-06-02,Huarina,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-06-03,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-06-12,Huarina,7,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-06-18,Huarina,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-06-19,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-07-06,Huarina,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-07-14,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-07-21,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-08-25,Huarina,2,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-08-31,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0
+20203,2021-09-03,Huarina,1,Chua Cocani,La Paz,52.722209858272,4475,0.0

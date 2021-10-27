@@ -1,15 +1,15 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Colquencha,2020-08-02,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2020-08-04,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2020-08-09,21306,2,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-01-10,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-01-16,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-01-23,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-02-04,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-02-08,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-02-12,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-03-24,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-06-16,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-07-06,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-09-11,21306,5,Colquencha,La Paz,50.4890832644561,10674,31.2
-Colquencha,2021-09-16,21306,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+21306,2020-08-02,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2020-08-04,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2020-08-09,Colquencha,2,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-01-10,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-01-16,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-01-23,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-02-04,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-02-08,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-02-12,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-03-24,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-06-16,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-07-06,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-09-11,Colquencha,5,Colquencha,La Paz,50.4890832644561,10674,31.2
+21306,2021-09-16,Colquencha,1,Colquencha,La Paz,50.4890832644561,10674,31.2

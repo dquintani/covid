@@ -1,8 +1,8 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Morochata,2021-05-15,30302,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-05-28,30302,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-06-18,30302,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-07-05,30302,7,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-07-09,30302,2,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-07-10,30302,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
-Morochata,2021-07-12,30302,3,Morochata,Cochabamba,46.1746559633831,13009,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+30302,2021-05-15,Morochata,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-05-28,Morochata,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-06-18,Morochata,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-07-05,Morochata,7,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-07-09,Morochata,2,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-07-10,Morochata,1,Morochata,Cochabamba,46.1746559633831,13009,0.0
+30302,2021-07-12,Morochata,3,Morochata,Cochabamba,46.1746559633831,13009,0.0

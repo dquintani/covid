@@ -1,8 +1,9 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Caquiaviri,2021-05-27,20302,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-07-07,20302,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-07-16,20302,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-07-23,20302,2,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-07-24,20302,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-08-26,20302,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
-Caquiaviri,2021-08-29,20302,2,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20302,2021-05-27,Caquiaviri,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-07-07,Caquiaviri,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-07-16,Caquiaviri,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-07-23,Caquiaviri,2,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-07-24,Caquiaviri,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-08-26,Caquiaviri,1,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-08-29,Caquiaviri,2,Caquiaviri,La Paz,48.58117233843161,15427,0.0
+20302,2021-10-23,Caquiaviri,4,Caquiaviri,La Paz,48.58117233843161,15427,0.0

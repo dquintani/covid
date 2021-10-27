@@ -1,7 +1,7 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Yunguyo del Litoral,2021-01-26,40504,3,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
-Yunguyo del Litoral,2021-02-06,40504,3,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
-Yunguyo del Litoral,2021-02-10,40504,2,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
-Yunguyo del Litoral,2021-02-12,40504,1,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
-Yunguyo del Litoral,2021-03-05,40504,1,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
-Yunguyo del Litoral,2021-06-18,40504,4,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+40504,2021-01-26,Yunguyo del Litoral,3,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+40504,2021-02-06,Yunguyo del Litoral,3,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+40504,2021-02-10,Yunguyo del Litoral,2,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+40504,2021-02-12,Yunguyo del Litoral,1,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+40504,2021-03-05,Yunguyo del Litoral,1,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0
+40504,2021-06-18,Yunguyo del Litoral,4,Yunguyo de Litoral,Oruro,50.535993582626,546,0.0

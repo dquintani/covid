@@ -1,6 +1,6 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Collana,2021-03-06,21307,2,Collana,La Paz,52.302306197624596,4777,56.4
-Collana,2021-07-03,21307,1,Collana,La Paz,52.302306197624596,4777,56.4
-Collana,2021-07-13,21307,1,Collana,La Paz,52.302306197624596,4777,56.4
-Collana,2021-07-22,21307,4,Collana,La Paz,52.302306197624596,4777,56.4
-Collana,2021-08-20,21307,1,Collana,La Paz,52.302306197624596,4777,56.4
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+21307,2021-03-06,Collana,2,Collana,La Paz,52.302306197624596,4777,56.4
+21307,2021-07-03,Collana,1,Collana,La Paz,52.302306197624596,4777,56.4
+21307,2021-07-13,Collana,1,Collana,La Paz,52.302306197624596,4777,56.4
+21307,2021-07-22,Collana,4,Collana,La Paz,52.302306197624596,4777,56.4
+21307,2021-08-20,Collana,1,Collana,La Paz,52.302306197624596,4777,56.4

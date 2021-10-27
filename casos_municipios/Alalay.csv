@@ -1,2 +1,2 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Alalay,2021-06-16,31303,1,Alalay,Cochabamba,40.5140359776164,3457,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+31303,2021-06-16,Alalay,1,Alalay,Cochabamba,40.5140359776164,3457,0.0

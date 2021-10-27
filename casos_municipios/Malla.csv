@@ -1,3 +1,3 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Malla,2020-04-14,20904,1,Malla,La Paz,48.1061596748966,6195,0.0
-Malla,2020-07-17,20904,4,Malla,La Paz,48.1061596748966,6195,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20904,2020-04-14,Malla,1,Malla,La Paz,48.1061596748966,6195,0.0
+20904,2020-07-17,Malla,4,Malla,La Paz,48.1061596748966,6195,0.0

@@ -1,7 +1,8 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Huatajata,2021-02-28,20205,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
-Huatajata,2021-05-16,20205,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
-Huatajata,2021-05-30,20205,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
-Huatajata,2021-06-03,20205,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
-Huatajata,2021-07-08,20205,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
-Huatajata,2021-07-11,20205,4,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20205,2021-02-28,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-05-16,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-05-30,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-06-03,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-07-08,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-07-11,Huatajata,4,Santiago de Huata,La Paz,51.9281240562685,9158,0.0
+20205,2021-10-21,Huatajata,1,Santiago de Huata,La Paz,51.9281240562685,9158,0.0

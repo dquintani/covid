@@ -1,11 +1,11 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Comanche,2020-08-15,20304,2,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-09-09,20304,4,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-09-15,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-09-18,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-10-07,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-10-16,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2020-10-27,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2021-02-09,20304,2,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2021-07-07,20304,2,Comanche,La Paz,48.1009142397926,3968,0.0
-Comanche,2021-09-26,20304,1,Comanche,La Paz,48.1009142397926,3968,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20304,2020-08-15,Comanche,2,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-09-09,Comanche,4,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-09-15,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-09-18,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-10-07,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-10-16,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2020-10-27,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2021-02-09,Comanche,2,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2021-07-07,Comanche,2,Comanche,La Paz,48.1009142397926,3968,0.0
+20304,2021-09-26,Comanche,1,Comanche,La Paz,48.1009142397926,3968,0.0

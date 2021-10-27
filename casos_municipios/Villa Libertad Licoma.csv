@@ -1,14 +1,14 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Villa Libertad Licoma,2021-04-04,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-05-20,21006,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-05-24,21006,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-05-26,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-05-27,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-05-30,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-06-04,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-06-05,21006,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-06-13,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-07-07,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-07-10,21006,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-07-14,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
-Villa Libertad Licoma,2021-07-20,21006,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+21006,2021-04-04,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-05-20,Villa Libertad Licoma,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-05-24,Villa Libertad Licoma,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-05-26,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-05-27,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-05-30,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-06-04,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-06-05,Villa Libertad Licoma,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-06-13,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-07-07,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-07-10,Villa Libertad Licoma,2,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-07-14,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6
+21006,2021-07-20,Villa Libertad Licoma,1,Villa Libertad Licoma,La Paz,52.512937285324604,5819,42.6

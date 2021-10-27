@@ -1,16 +1,17 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Villa Ancoraimes,2020-07-10,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2020-07-18,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-03-07,20202,2,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-07-16,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-08-05,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-08-08,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-08-18,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-08-23,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-03,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-09,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-10,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-11,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-18,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-20,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
-Villa Ancoraimes,2021-09-22,20202,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20202,2020-07-10,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2020-07-18,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-03-07,Villa Ancoraimes,2,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-07-16,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-08-05,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-08-08,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-08-18,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-08-23,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-03,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-09,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-10,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-11,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-18,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-20,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-09-22,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0
+20202,2021-10-23,Villa Ancoraimes,1,Ancoraimes,La Paz,47.059051456023504,12864,0.0

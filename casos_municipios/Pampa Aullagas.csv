@@ -1,16 +1,16 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Pampa Aullagas,2020-08-08,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-01-06,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-01-20,40802,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-01-23,40802,5,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-01-28,40802,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-02-04,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-02-10,40802,3,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-03-10,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-05-25,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-05-29,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-06-01,40802,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-06-16,40802,4,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-07-15,40802,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-08-03,40802,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-Pampa Aullagas,2021-08-12,40802,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+40802,2020-08-08,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-01-06,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-01-20,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-01-23,Pampa Aullagas,5,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-01-28,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-02-04,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-02-10,Pampa Aullagas,3,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-03-10,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-05-25,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-05-29,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-06-01,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-06-16,Pampa Aullagas,4,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-07-15,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-08-03,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+40802,2021-08-12,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0

@@ -1,8 +1,8 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Choquecota,2021-01-27,40302,4,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-01-30,40302,3,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-05-12,40302,4,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-05-14,40302,1,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-08-21,40302,2,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-09-01,40302,1,Choque Cota,Oruro,46.994866468508704,1946,0.0
-Choquecota,2021-09-04,40302,1,Choque Cota,Oruro,46.994866468508704,1946,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+40302,2021-01-27,Choquecota,4,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-01-30,Choquecota,3,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-05-12,Choquecota,4,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-05-14,Choquecota,1,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-08-21,Choquecota,2,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-09-01,Choquecota,1,Choque Cota,Oruro,46.994866468508704,1946,0.0
+40302,2021-09-04,Choquecota,1,Choque Cota,Oruro,46.994866468508704,1946,0.0

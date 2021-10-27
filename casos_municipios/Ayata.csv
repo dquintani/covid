@@ -1,3 +1,3 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Ayata,2020-06-26,20502,1,Ayata,La Paz,43.599265946370004,8693,0.0
-Ayata,2021-08-13,20502,1,Ayata,La Paz,43.599265946370004,8693,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20502,2020-06-26,Ayata,1,Ayata,La Paz,43.599265946370004,8693,0.0
+20502,2021-08-13,Ayata,1,Ayata,La Paz,43.599265946370004,8693,0.0

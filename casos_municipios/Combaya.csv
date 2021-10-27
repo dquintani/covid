@@ -1,2 +1,2 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Combaya,2021-06-18,20605,2,Combaya,La Paz,49.375350156180296,4020,0.0
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20605,2021-06-18,Combaya,2,Combaya,La Paz,49.375350156180296,4020,0.0

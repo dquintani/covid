@@ -1,5 +1,5 @@
-municipio_x,fecha,cod_ine,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-Mapiri,2020-06-28,20607,1,Mapiri,La Paz,51.84370730872029,14854,43.2
-Mapiri,2021-04-13,20607,1,Mapiri,La Paz,51.84370730872029,14854,43.2
-Mapiri,2021-07-31,20607,1,Mapiri,La Paz,51.84370730872029,14854,43.2
-Mapiri,2021-08-22,20607,1,Mapiri,La Paz,51.84370730872029,14854,43.2
+cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
+20607,2020-06-28,Mapiri,1,Mapiri,La Paz,51.84370730872029,14854,43.2
+20607,2021-04-13,Mapiri,1,Mapiri,La Paz,51.84370730872029,14854,43.2
+20607,2021-07-31,Mapiri,1,Mapiri,La Paz,51.84370730872029,14854,43.2
+20607,2021-08-22,Mapiri,1,Mapiri,La Paz,51.84370730872029,14854,43.2
