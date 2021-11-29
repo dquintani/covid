@@ -33,7 +33,15 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70303,2021-05-26,San Rafael,5,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-06-01,San Rafael,3,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-06-04,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-08,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-09,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-10,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-06-18,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-26,San Rafael,3,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-28,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-29,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-06-30,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-07-01,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-07-04,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-07-06,San Rafael,3,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-07-07,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
@@ -44,6 +52,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70303,2021-08-07,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-08-16,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-09-25,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-09-27,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-09-28,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
+70303,2021-09-29,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-10-20,San Rafael,2,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-10-27,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7
 70303,2021-11-03,San Rafael,1,San Rafael,Santa Cruz,49.7778017307201,7444,51.7

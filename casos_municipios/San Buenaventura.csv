@@ -21,6 +21,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21502,2021-06-18,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-06-19,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-06-20,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
+21502,2021-07-02,San Buenaventura,42,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-03,San Buenaventura,11,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-04,San Buenaventura,4,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-06,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
@@ -34,6 +35,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21502,2021-07-21,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-22,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-24,San Buenaventura,6,San Buenaventura,La Paz,52.182670956757704,9453,39.6
+21502,2021-07-25,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
+21502,2021-07-29,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-07-31,San Buenaventura,7,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-08-06,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-08-10,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
@@ -51,4 +54,5 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21502,2021-09-19,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-09-21,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-09-24,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
+21502,2021-10-01,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
 21502,2021-10-26,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6

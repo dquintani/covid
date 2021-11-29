@@ -50,6 +50,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10702,2021-03-23,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-03-27,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-04-04,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-04-05,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-04-21,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-04-28,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-04-29,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
@@ -64,6 +65,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10702,2021-06-03,San Lucas,6,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-04,San Lucas,4,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-06,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-07,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-09,San Lucas,5,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-10,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-11,San Lucas,6,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-12,San Lucas,6,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-13,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-15,San Lucas,5,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
@@ -71,6 +76,13 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10702,2021-06-17,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-18,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-06-19,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-21,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-22,San Lucas,5,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-23,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-24,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-25,San Lucas,3,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-28,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-06-29,San Lucas,5,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-07-05,San Lucas,3,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-07-07,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-07-08,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
@@ -83,6 +95,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10702,2021-07-21,San Lucas,4,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-07-22,San Lucas,2,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-07-23,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-07-27,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-07-28,San Lucas,7,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
+10702,2021-07-29,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-08-01,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-08-02,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0
 10702,2021-08-03,San Lucas,1,San Lucas,Chuquisaca,42.2944343516559,33632,0.0

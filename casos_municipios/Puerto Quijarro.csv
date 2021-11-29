@@ -64,6 +64,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71402,2021-03-29,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-03-31,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-04-03,Puerto Quijarro,4,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-04-05,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-04-11,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-04-14,Puerto Quijarro,6,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-04-17,Puerto Quijarro,3,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
@@ -77,10 +78,17 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71402,2021-05-29,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-02,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-04,Puerto Quijarro,6,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-09,Puerto Quijarro,3,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-10,Puerto Quijarro,3,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-11,Puerto Quijarro,6,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-14,Puerto Quijarro,3,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-15,Puerto Quijarro,7,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-17,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-06-20,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-22,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-23,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-24,Puerto Quijarro,5,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-06-25,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-05,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-08,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-09,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
@@ -89,6 +97,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71402,2021-07-15,Puerto Quijarro,5,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-21,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-22,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-07-26,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-07-30,Puerto Quijarro,4,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-07-31,Puerto Quijarro,4,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-08-02,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-08-03,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
@@ -112,6 +122,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71402,2021-09-17,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-09-20,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-09-23,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
+71402,2021-10-01,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-10-04,Puerto Quijarro,1,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-10-13,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3
 71402,2021-10-14,Puerto Quijarro,2,Puerto Quijarro,Santa Cruz,63.995586949979604,20068,98.3

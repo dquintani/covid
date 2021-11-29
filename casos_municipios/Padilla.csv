@@ -65,6 +65,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10401,2021-04-02,Padilla,8,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-04-03,Padilla,8,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-04-04,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-04-06,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-04-07,Padilla,4,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-04-09,Padilla,4,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-04-10,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-04-12,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
@@ -93,11 +95,21 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10401,2021-06-02,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-04,Padilla,8,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-06,Padilla,6,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-08,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-09,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-11,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-15,Padilla,7,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-16,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-18,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-19,Padilla,8,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-06-20,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-21,Padilla,13,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-22,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-23,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-25,Padilla,11,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-28,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-06-30,Padilla,4,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-07-02,Padilla,4,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-04,Padilla,7,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-05,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-07,Padilla,4,Padilla,Chuquisaca,54.1707584748893,11067,31.9
@@ -108,6 +120,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10401,2021-07-18,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-21,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-22,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-07-25,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-07-30,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-07-31,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-08-01,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-08-02,Padilla,5,Padilla,Chuquisaca,54.1707584748893,11067,31.9
@@ -126,6 +140,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10401,2021-09-01,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-09-03,Padilla,2,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-09-24,Padilla,12,Padilla,Chuquisaca,54.1707584748893,11067,31.9
+10401,2021-09-30,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-10-13,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-10-16,Padilla,1,Padilla,Chuquisaca,54.1707584748893,11067,31.9
 10401,2021-11-03,Padilla,3,Padilla,Chuquisaca,54.1707584748893,11067,31.9

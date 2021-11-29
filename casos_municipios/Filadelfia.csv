@@ -6,6 +6,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 90203,2020-07-04,Filadelfia,1,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2020-07-05,Filadelfia,4,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-01-06,Filadelfia,1,Filadelfia,Pando,48.255085792956706,6149,0.0
+90203,2021-04-08,Filadelfia,11,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-04-11,Filadelfia,3,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-04-13,Filadelfia,1,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-04-14,Filadelfia,8,Filadelfia,Pando,48.255085792956706,6149,0.0
@@ -17,6 +18,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 90203,2021-05-10,Filadelfia,2,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-05-20,Filadelfia,2,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-05-31,Filadelfia,1,Filadelfia,Pando,48.255085792956706,6149,0.0
+90203,2021-06-24,Filadelfia,3,Filadelfia,Pando,48.255085792956706,6149,0.0
+90203,2021-07-01,Filadelfia,1,Filadelfia,Pando,48.255085792956706,6149,0.0
+90203,2021-07-14,Filadelfia,2,Filadelfia,Pando,48.255085792956706,6149,0.0
+90203,2021-07-29,Filadelfia,3,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-08-13,Filadelfia,5,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-08-17,Filadelfia,4,Filadelfia,Pando,48.255085792956706,6149,0.0
 90203,2021-08-20,Filadelfia,2,Filadelfia,Pando,48.255085792956706,6149,0.0

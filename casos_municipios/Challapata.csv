@@ -123,6 +123,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 40201,2021-04-01,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-04-02,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-04-03,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-04-05,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-04-09,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-04-14,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-04-15,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
@@ -166,6 +167,11 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 40201,2021-06-04,Challapata,5,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-05,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-06,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-07,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-08,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-09,Challapata,7,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-10,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-11,Challapata,5,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-12,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-13,Challapata,7,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-14,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
@@ -174,6 +180,13 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 40201,2021-06-18,Challapata,4,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-19,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-06-20,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-22,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-23,Challapata,6,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-24,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-25,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-28,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-06-30,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-01,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-07-03,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-07-04,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-07-07,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
@@ -193,6 +206,11 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 40201,2021-07-21,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-07-23,Challapata,6,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-07-24,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-26,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-27,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-28,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-29,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-07-30,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-08-03,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-08-05,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-08-07,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
@@ -223,6 +241,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 40201,2021-09-17,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-09-18,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-09-24,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-09-28,Challapata,3,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-09-29,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
+40201,2021-10-01,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-10-08,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-10-19,Challapata,1,Challapata,Oruro,51.1226459549664,31259,44.8
 40201,2021-11-18,Challapata,2,Challapata,Oruro,51.1226459549664,31259,44.8

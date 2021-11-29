@@ -120,10 +120,14 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70403,2021-05-29,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-01,Yapacaní,7,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-02,Yapacaní,8,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-06-10,Yapacaní,6,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-16,Yapacaní,12,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-17,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-18,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-06-19,Yapacaní,5,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-06-24,Yapacaní,12,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-06-25,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-06-26,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-07-03,Yapacaní,26,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-07-08,Yapacaní,3,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-07-09,Yapacaní,4,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
@@ -135,6 +139,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70403,2021-07-16,Yapacaní,2,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-07-22,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-07-23,Yapacaní,5,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-07-30,Yapacaní,5,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-08-01,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-08-02,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-08-04,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
@@ -155,6 +160,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70403,2021-09-03,Yapacaní,6,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-09-09,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-09-15,Yapacaní,2,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
+70403,2021-09-27,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-10-04,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-10-22,Yapacaní,2,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8
 70403,2021-11-09,Yapacaní,1,Yapacaní,Santa Cruz,47.8315530014817,77152,65.8

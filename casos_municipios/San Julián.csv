@@ -60,6 +60,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71103,2021-03-15,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-03-24,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-03-30,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-04-07,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-04-16,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-04-21,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-04-30,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
@@ -74,12 +75,19 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71103,2021-05-31,San Julián,3,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-01,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-02,San Julián,6,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-07,San Julián,4,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-09,San Julián,4,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-10,San Julián,8,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-11,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-12,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-14,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-15,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-17,San Julián,6,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-18,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-06-20,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-24,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-06-29,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-07-01,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-07-05,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-07-13,San Julián,3,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-07-15,San Julián,2,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
@@ -93,6 +101,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71103,2021-09-09,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-09-21,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-09-22,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
+71103,2021-09-29,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-10-04,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-10-07,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4
 71103,2021-10-09,San Julián,1,San Ramón,Santa Cruz,49.15395565394421,9295,85.4

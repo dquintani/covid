@@ -63,6 +63,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 30701,2021-03-26,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-04-01,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-04-02,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-04-07,Capinota,3,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-04-13,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-04-14,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-04-15,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
@@ -98,6 +99,11 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 30701,2021-06-02,Capinota,5,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-04,Capinota,6,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-05,Capinota,6,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-06,Capinota,7,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-07,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-08,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-10,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-11,Capinota,4,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-12,Capinota,5,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-13,Capinota,8,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-14,Capinota,4,Capinota,Cochabamba,54.9692094904202,21644,47.3
@@ -107,6 +113,11 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 30701,2021-06-18,Capinota,3,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-19,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-06-20,Capinota,4,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-26,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-27,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-06-29,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-07-01,Capinota,4,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-07-02,Capinota,3,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-04,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-05,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-06,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
@@ -120,6 +131,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 30701,2021-07-21,Capinota,5,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-22,Capinota,6,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-24,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-07-28,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-07-29,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
+30701,2021-07-30,Capinota,2,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-07-31,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-08-01,Capinota,4,Capinota,Cochabamba,54.9692094904202,21644,47.3
 30701,2021-08-03,Capinota,1,Capinota,Cochabamba,54.9692094904202,21644,47.3

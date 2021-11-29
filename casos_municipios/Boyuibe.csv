@@ -30,6 +30,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70707,2021-03-29,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-04-01,Boyuibe,6,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-04-02,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-04-05,Boyuibe,4,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-04-06,Boyuibe,4,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-04-07,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-04-09,Boyuibe,5,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-04-11,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-04-12,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
@@ -47,11 +50,17 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70707,2021-06-01,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-02,Boyuibe,7,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-03,Boyuibe,11,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-06-08,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-06-10,Boyuibe,3,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-06-11,Boyuibe,24,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-12,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-14,Boyuibe,7,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-15,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-17,Boyuibe,3,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-06-18,Boyuibe,21,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-06-25,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-06-27,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-07-01,Boyuibe,5,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-07-03,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-07-04,Boyuibe,8,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-07-06,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
@@ -66,6 +75,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70707,2021-07-21,Boyuibe,4,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-07-23,Boyuibe,3,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-07-24,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
+70707,2021-07-27,Boyuibe,2,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-08-05,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-08-06,Boyuibe,3,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9
 70707,2021-08-08,Boyuibe,1,Boyuibe,Santa Cruz,55.50263006125179,6154,66.9

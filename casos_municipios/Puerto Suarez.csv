@@ -64,11 +64,19 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71401,2021-05-25,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-05-26,Puerto Suarez,4,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-05-31,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-09,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-10,Puerto Suarez,8,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-11,Puerto Suarez,23,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-06-14,Puerto Suarez,10,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-06-15,Puerto Suarez,4,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-06-16,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-06-17,Puerto Suarez,3,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-06-18,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-23,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-25,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-29,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-06-30,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-07-01,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-07-05,Puerto Suarez,8,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-07-07,Puerto Suarez,6,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-07-08,Puerto Suarez,9,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
@@ -80,6 +88,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71401,2021-07-19,Puerto Suarez,3,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-07-21,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-07-22,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-07-26,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-07-28,Puerto Suarez,11,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-07-29,Puerto Suarez,4,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-08-02,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-08-04,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-08-12,Puerto Suarez,7,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
@@ -94,6 +105,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71401,2021-09-15,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-09-16,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-09-17,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
+71401,2021-09-27,Puerto Suarez,2,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-10-18,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-10-19,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4
 71401,2021-10-22,Puerto Suarez,1,Puerto Suárez,Santa Cruz,58.3606033278181,24409,82.4

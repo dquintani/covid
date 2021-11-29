@@ -26,6 +26,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10402,2021-03-27,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-03-29,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-04-01,Tomina,3,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-04-05,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-04-09,Tomina,3,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-04-10,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-04-16,Tomina,5,Tomina,Chuquisaca,47.429254466144,8727,0.0
@@ -36,11 +37,15 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10402,2021-06-02,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-04,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-06,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-06-07,Tomina,3,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-06-08,Tomina,2,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-12,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-15,Tomina,2,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-18,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-19,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-06-20,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-06-25,Tomina,7,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-06-30,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-07-04,Tomina,3,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-07-05,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-07-09,Tomina,2,Tomina,Chuquisaca,47.429254466144,8727,0.0
@@ -56,6 +61,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10402,2021-09-15,Tomina,6,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-09-19,Tomina,4,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-09-24,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
+10402,2021-09-28,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-10-03,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-10-04,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0
 10402,2021-10-06,Tomina,1,Tomina,Chuquisaca,47.429254466144,8727,0.0

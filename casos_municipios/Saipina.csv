@@ -25,6 +25,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71302,2021-03-12,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-03-16,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-03-31,Saipina,5,Saipina,Santa Cruz,55.1250973796527,9702,55.3
+71302,2021-04-29,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-04-30,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-05-04,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-05-05,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
@@ -40,14 +41,17 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71302,2021-06-01,Saipina,5,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-06-02,Saipina,4,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-06-04,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
+71302,2021-06-08,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-06-14,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-06-16,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-06-18,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
+71302,2021-06-23,Saipina,4,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-07-06,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-07-09,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-07-12,Saipina,6,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-07-16,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-07-19,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
+71302,2021-07-28,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-09-03,Saipina,1,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-09-09,Saipina,2,Saipina,Santa Cruz,55.1250973796527,9702,55.3
 71302,2021-10-05,Saipina,4,Saipina,Santa Cruz,55.1250973796527,9702,55.3

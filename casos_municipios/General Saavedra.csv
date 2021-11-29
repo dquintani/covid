@@ -44,6 +44,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71002,2021-03-28,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-03-30,General Saavedra,4,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-04-01,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-04-06,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-04-21,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-05-10,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-05-11,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
@@ -63,10 +64,19 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71002,2021-06-03,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-05,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-06,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-07,General Saavedra,4,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-08,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-09,General Saavedra,5,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-11,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-14,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-16,General Saavedra,8,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-18,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-06-19,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-22,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-23,General Saavedra,5,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-24,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-29,General Saavedra,4,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-06-30,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-07-04,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-07-05,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-07-06,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
@@ -74,6 +84,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71002,2021-07-11,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-07-16,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-07-20,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-07-27,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
+71002,2021-07-30,General Saavedra,3,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-08-02,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-08-04,General Saavedra,1,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1
 71002,2021-08-10,General Saavedra,2,Gral. Saavedra,Santa Cruz,53.111906505668294,14065,37.1

@@ -69,7 +69,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21101,2021-05-27,Chulumani,4,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-06-01,Chulumani,2,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-06-02,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-06-09,Chulumani,18,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-06-20,Chulumani,8,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-06-21,Chulumani,3,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-06-29,Chulumani,6,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-07-04,Chulumani,5,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-07-06,Chulumani,5,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-07-11,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
@@ -77,6 +80,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21101,2021-07-20,Chulumani,4,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-07-21,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-07-24,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-07-27,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-08-03,Chulumani,3,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-08-07,Chulumani,4,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-08-09,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
@@ -100,6 +104,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 21101,2021-09-17,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-09-19,Chulumani,2,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-09-25,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-09-28,Chulumani,4,Chulumani,La Paz,56.4977120465024,21619,11.6
+21101,2021-10-01,Chulumani,3,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-10-02,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-10-06,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6
 21101,2021-10-07,Chulumani,1,Chulumani,La Paz,56.4977120465024,21619,11.6

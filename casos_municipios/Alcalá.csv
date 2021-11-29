@@ -32,6 +32,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10404,2021-02-23,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-02-24,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-04-01,Alcalá,5,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-04-06,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-04-14,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-04-15,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-04-24,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
@@ -46,12 +47,16 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10404,2021-06-01,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-02,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-06,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-06-08,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-06-09,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-14,Alcalá,4,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-15,Alcalá,3,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-16,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-18,Alcalá,3,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-19,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-06-20,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-06-24,Alcalá,9,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-07-01,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-07-07,Alcalá,5,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-07-08,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-07-13,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
@@ -64,6 +69,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10404,2021-09-12,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-09-18,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-09-24,Alcalá,2,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-09-28,Alcalá,3,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-09-29,Alcalá,3,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
+10404,2021-09-30,Alcalá,3,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-10-03,Alcalá,7,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-10-04,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0
 10404,2021-10-08,Alcalá,1,Villa Alcalá,Chuquisaca,48.1376912930888,5196,0.0

@@ -103,6 +103,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71104,2021-04-01,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-04-02,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-04-03,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-04-07,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-04-09,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-04-19,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-04-21,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
@@ -140,6 +141,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71104,2021-06-04,San Antonio de Lomerio,6,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-05,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-06,San Antonio de Lomerio,5,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-07,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-08,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-09,San Antonio de Lomerio,4,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-11,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-12,San Antonio de Lomerio,6,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-13,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-14,San Antonio de Lomerio,3,San Julián,Santa Cruz,52.082134468724,67701,40.9
@@ -148,6 +153,14 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71104,2021-06-17,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-18,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-06-19,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-21,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-23,San Antonio de Lomerio,3,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-25,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-26,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-27,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-06-30,San Antonio de Lomerio,5,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-01,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-02,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-07,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-08,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-09,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
@@ -160,6 +173,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71104,2021-07-22,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-23,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-24,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-25,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-27,San Antonio de Lomerio,3,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-28,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-07-30,San Antonio de Lomerio,3,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-07-31,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-08-03,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-08-05,San Antonio de Lomerio,2,San Julián,Santa Cruz,52.082134468724,67701,40.9
@@ -181,6 +198,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 71104,2021-09-09,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-09-15,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-09-21,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
+71104,2021-09-28,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-10-06,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-10-07,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9
 71104,2021-10-14,San Antonio de Lomerio,1,San Julián,Santa Cruz,52.082134468724,67701,40.9

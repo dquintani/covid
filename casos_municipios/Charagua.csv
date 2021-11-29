@@ -44,6 +44,8 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70702,2021-03-24,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-03-29,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-03-30,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-04-06,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-04-07,Charagua,5,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-14,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-15,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-19,Charagua,9,Charagua,Santa Cruz,48.069781700021295,40476,10.9
@@ -51,6 +53,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70702,2021-04-21,Charagua,7,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-22,Charagua,6,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-26,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-04-29,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-04-30,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-05-01,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-05-05,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
@@ -64,6 +67,13 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70702,2021-05-26,Charagua,4,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-06-01,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-06-04,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-06-10,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-06-11,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-06-22,Charagua,3,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-06-23,Charagua,5,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-06-29,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-07-01,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-07-02,Charagua,3,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-08,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-09,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-14,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
@@ -72,6 +82,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70702,2021-07-19,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-21,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-23,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
+70702,2021-07-30,Charagua,1,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-07-31,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-08-02,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9
 70702,2021-08-11,Charagua,2,Charagua,Santa Cruz,48.069781700021295,40476,10.9

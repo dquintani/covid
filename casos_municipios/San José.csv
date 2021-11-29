@@ -89,6 +89,10 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70501,2021-04-01,San José,2,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-02,San José,2,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-04,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-04-05,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-04-06,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-04-07,San José,4,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-04-08,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-12,San José,2,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-15,San José,2,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-16,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
@@ -98,6 +102,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70501,2021-04-24,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-25,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-26,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-04-29,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-04-30,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-05-06,San José,6,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-05-07,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
@@ -118,11 +123,16 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70501,2021-06-03,San José,8,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-04,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-05,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-06-07,San José,4,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-06-08,San José,6,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-06-09,San José,5,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-13,San José,4,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-14,San José,9,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-15,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-16,San José,2,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-06-17,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-06-23,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-06-24,San José,3,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-07-05,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-07-07,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-07-09,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
@@ -132,6 +142,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 70501,2021-07-19,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-07-23,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-07-24,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
+70501,2021-07-29,San José,5,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-08-04,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-08-07,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2
 70501,2021-08-12,San José,1,San José de Chiquitos,Santa Cruz,52.1602534965197,44739,43.2

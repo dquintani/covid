@@ -45,6 +45,9 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10601,2021-03-31,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-04-01,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-04-04,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-04-05,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-04-06,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-04-07,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-04-10,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-04-22,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-05-08,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
@@ -62,6 +65,13 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10601,2021-06-14,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-06-15,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-06-16,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-06-24,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-06-26,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-06-27,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-06-28,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-06-29,Tarabuco,10,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-07-01,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-07-02,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-03,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-04,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-06,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
@@ -76,6 +86,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10601,2021-07-20,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-21,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-23,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-07-26,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-07-31,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-08-07,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-08-09,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
@@ -92,6 +103,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 10601,2021-09-12,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-09-14,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-09-26,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
+10601,2021-09-29,Tarabuco,2,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-10-09,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-10-13,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6
 10601,2021-10-15,Tarabuco,1,Tarabuco,Chuquisaca,43.3375952267388,17027,17.6

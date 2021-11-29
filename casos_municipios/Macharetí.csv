@@ -39,6 +39,7 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 11003,2021-04-02,Macharetí,6,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-04-03,Macharetí,2,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-04-04,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-04-07,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-04-11,Macharetí,4,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-04-12,Macharetí,2,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-04-15,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
@@ -65,11 +66,16 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 11003,2021-05-31,Macharetí,30,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-01,Macharetí,7,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-04,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-06-07,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-06-08,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-06-10,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-06-11,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-15,Macharetí,2,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-16,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-18,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-19,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-06-20,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-06-26,Macharetí,4,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-07-05,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-07-09,Macharetí,4,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-07-12,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
@@ -79,6 +85,11 @@ cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urb
 11003,2021-07-19,Macharetí,8,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-07-21,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-07-23,Macharetí,7,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-07-25,Macharetí,5,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-07-26,Macharetí,15,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-07-28,Macharetí,12,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-07-29,Macharetí,3,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
+11003,2021-07-30,Macharetí,9,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-08-01,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-08-02,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
 11003,2021-08-03,Macharetí,1,Macharetí,Chuquisaca,48.0188187987996,7735,0.0
