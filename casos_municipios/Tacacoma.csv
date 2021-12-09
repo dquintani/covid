@@ -1,2 +1,2 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20603,2021-04-23,Tacacoma,1,Tacacoma,La Paz,50.1629424751701,8847,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20603,2021-04-23,Tacacoma,1,La Paz,8847

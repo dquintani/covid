@@ -1,16 +1,16 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21901,2020-08-07,Santiago de Machaca,2,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2020-08-20,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-01-24,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-02-19,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-03-08,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-04-21,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-04-29,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-05-04,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-05-22,Santiago de Machaca,3,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-07-02,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-07-04,Santiago de Machaca,2,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-07-30,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-08-01,Santiago de Machaca,3,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-08-11,Santiago de Machaca,1,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
-21901,2021-08-15,Santiago de Machaca,2,Santiago de Machaca,La Paz,52.09360614396971,4522,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21901,2020-08-07,Santiago de Machaca,2,La Paz,4522
+21901,2020-08-20,Santiago de Machaca,1,La Paz,4522
+21901,2021-01-24,Santiago de Machaca,1,La Paz,4522
+21901,2021-02-19,Santiago de Machaca,1,La Paz,4522
+21901,2021-03-08,Santiago de Machaca,1,La Paz,4522
+21901,2021-04-21,Santiago de Machaca,1,La Paz,4522
+21901,2021-04-29,Santiago de Machaca,1,La Paz,4522
+21901,2021-05-04,Santiago de Machaca,1,La Paz,4522
+21901,2021-05-22,Santiago de Machaca,3,La Paz,4522
+21901,2021-07-02,Santiago de Machaca,1,La Paz,4522
+21901,2021-07-04,Santiago de Machaca,2,La Paz,4522
+21901,2021-07-30,Santiago de Machaca,1,La Paz,4522
+21901,2021-08-01,Santiago de Machaca,3,La Paz,4522
+21901,2021-08-11,Santiago de Machaca,1,La Paz,4522
+21901,2021-08-15,Santiago de Machaca,2,La Paz,4522

@@ -1,5 +1,5 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20605,2021-06-18,Combaya,2,Combaya,La Paz,49.375350156180296,4020,0.0
-20605,2021-06-21,Combaya,1,Combaya,La Paz,49.375350156180296,4020,0.0
-20605,2021-10-28,Combaya,1,Combaya,La Paz,49.375350156180296,4020,0.0
-20605,2021-12-01,Combaya,1,Combaya,La Paz,49.375350156180296,4020,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20605,2021-06-18,Combaya,2,La Paz,4020
+20605,2021-06-21,Combaya,1,La Paz,4020
+20605,2021-10-28,Combaya,1,La Paz,4020
+20605,2021-12-01,Combaya,1,La Paz,4020

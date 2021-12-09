@@ -1,8 +1,8 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-40502,2020-08-21,Escara,1,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-01-17,Escara,3,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-01-20,Escara,3,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-04-23,Escara,2,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-05-13,Escara,2,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-05-28,Escara,3,Escara,Oruro,49.142325637311295,4463,0.0
-40502,2021-06-10,Escara,1,Escara,Oruro,49.142325637311295,4463,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+40502,2020-08-21,Escara,1,Oruro,4463
+40502,2021-01-17,Escara,3,Oruro,4463
+40502,2021-01-20,Escara,3,Oruro,4463
+40502,2021-04-23,Escara,2,Oruro,4463
+40502,2021-05-13,Escara,2,Oruro,4463
+40502,2021-05-28,Escara,3,Oruro,4463
+40502,2021-06-10,Escara,1,Oruro,4463

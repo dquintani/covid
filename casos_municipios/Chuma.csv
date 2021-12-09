@@ -1,8 +1,8 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20501,2020-07-08,Chuma,1,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-01-07,Chuma,1,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-09-02,Chuma,1,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-09-21,Chuma,1,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-11-16,Chuma,6,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-11-30,Chuma,1,Chuma,La Paz,46.9753969730519,11256,0.0
-20501,2021-12-01,Chuma,3,Chuma,La Paz,46.9753969730519,11256,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20501,2020-07-08,Chuma,1,La Paz,11256
+20501,2021-01-07,Chuma,1,La Paz,11256
+20501,2021-09-02,Chuma,1,La Paz,11256
+20501,2021-09-21,Chuma,1,La Paz,11256
+20501,2021-11-16,Chuma,6,La Paz,11256
+20501,2021-11-30,Chuma,1,La Paz,11256
+20501,2021-12-01,Chuma,3,La Paz,11256

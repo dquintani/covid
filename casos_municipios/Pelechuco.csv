@@ -1,4 +1,4 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20702,2020-06-20,Pelechuco,1,Pelechuco,La Paz,47.4423686420459,7081,0.0
-20702,2021-03-06,Pelechuco,1,Pelechuco,La Paz,47.4423686420459,7081,0.0
-20702,2021-08-10,Pelechuco,1,Pelechuco,La Paz,47.4423686420459,7081,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20702,2020-06-20,Pelechuco,1,La Paz,7081
+20702,2021-03-06,Pelechuco,1,La Paz,7081
+20702,2021-08-10,Pelechuco,1,La Paz,7081

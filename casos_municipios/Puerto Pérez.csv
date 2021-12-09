@@ -1,12 +1,12 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21204,2020-08-23,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-01-19,Puerto Pérez,2,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-01-31,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-04-24,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-04-25,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-04-27,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-05-03,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-06-02,Puerto Pérez,4,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-06-09,Puerto Pérez,2,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-06-17,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
-21204,2021-09-08,Puerto Pérez,1,Puerto Pérez,La Paz,45.0474020869506,8502,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21204,2020-08-23,Puerto Pérez,1,La Paz,8502
+21204,2021-01-19,Puerto Pérez,2,La Paz,8502
+21204,2021-01-31,Puerto Pérez,1,La Paz,8502
+21204,2021-04-24,Puerto Pérez,1,La Paz,8502
+21204,2021-04-25,Puerto Pérez,1,La Paz,8502
+21204,2021-04-27,Puerto Pérez,1,La Paz,8502
+21204,2021-05-03,Puerto Pérez,1,La Paz,8502
+21204,2021-06-02,Puerto Pérez,4,La Paz,8502
+21204,2021-06-09,Puerto Pérez,2,La Paz,8502
+21204,2021-06-17,Puerto Pérez,1,La Paz,8502
+21204,2021-09-08,Puerto Pérez,1,La Paz,8502

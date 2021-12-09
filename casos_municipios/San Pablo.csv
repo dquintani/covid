@@ -1,7 +1,7 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-51001,2020-09-03,San Pablo,5,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
-51001,2020-11-24,San Pablo,4,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
-51001,2021-02-08,San Pablo,6,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
-51001,2021-03-12,San Pablo,1,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
-51001,2021-06-17,San Pablo,1,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
-51001,2021-07-02,San Pablo,1,San Pablo de Lípez,Potosí,48.6144620329977,4118,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+51001,2020-09-03,San Pablo,5,Potosí,4118
+51001,2020-11-24,San Pablo,4,Potosí,4118
+51001,2021-02-08,San Pablo,6,Potosí,4118
+51001,2021-03-12,San Pablo,1,Potosí,4118
+51001,2021-06-17,San Pablo,1,Potosí,4118
+51001,2021-07-02,San Pablo,1,Potosí,4118

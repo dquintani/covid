@@ -1,6 +1,6 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21703,2021-02-05,Tito Yupanqui,2,Tito Yupanqui,La Paz,45.3965554311652,6580,55.2
-21703,2021-02-25,Tito Yupanqui,1,Tito Yupanqui,La Paz,45.3965554311652,6580,55.2
-21703,2021-08-01,Tito Yupanqui,2,Tito Yupanqui,La Paz,45.3965554311652,6580,55.2
-21703,2021-08-06,Tito Yupanqui,2,Tito Yupanqui,La Paz,45.3965554311652,6580,55.2
-21703,2021-11-23,Tito Yupanqui,1,Tito Yupanqui,La Paz,45.3965554311652,6580,55.2
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21703,2021-02-05,Tito Yupanqui,2,La Paz,6580
+21703,2021-02-25,Tito Yupanqui,1,La Paz,6580
+21703,2021-08-01,Tito Yupanqui,2,La Paz,6580
+21703,2021-08-06,Tito Yupanqui,2,La Paz,6580
+21703,2021-11-23,Tito Yupanqui,1,La Paz,6580

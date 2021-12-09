@@ -1,2 +1,2 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20308,2021-07-04,Santiago de Callapa,1,Callapa,La Paz,44.3941209183661,6939,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20308,2021-07-04,Santiago de Callapa,1,La Paz,6939

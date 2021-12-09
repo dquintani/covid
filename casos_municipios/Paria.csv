@@ -1,5 +1,5 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-40104,2020-06-30,Paria,1,Pari-Paria-Soracachi,Oruro,48.8805252375331,11598,0.0
-40104,2021-07-13,Paria,16,Pari-Paria-Soracachi,Oruro,48.8805252375331,11598,0.0
-40104,2021-07-17,Paria,2,Pari-Paria-Soracachi,Oruro,48.8805252375331,11598,0.0
-40104,2021-09-17,Paria,1,Pari-Paria-Soracachi,Oruro,48.8805252375331,11598,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+40104,2020-06-30,Paria,1,Oruro,11598
+40104,2021-07-13,Paria,16,Oruro,11598
+40104,2021-07-17,Paria,2,Oruro,11598
+40104,2021-09-17,Paria,1,Oruro,11598

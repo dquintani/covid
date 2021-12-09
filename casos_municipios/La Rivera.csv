@@ -1,4 +1,4 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-41501,2020-09-04,La Rivera,2,La Rivera,Oruro,52.840566889239,581,0.0
-41501,2021-06-14,La Rivera,1,La Rivera,Oruro,52.840566889239,581,0.0
-41501,2021-06-16,La Rivera,1,La Rivera,Oruro,52.840566889239,581,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+41501,2020-09-04,La Rivera,2,Oruro,581
+41501,2021-06-14,La Rivera,1,Oruro,581
+41501,2021-06-16,La Rivera,1,Oruro,581

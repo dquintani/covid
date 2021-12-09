@@ -1,5 +1,5 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21803,2021-03-10,Chacarilla,2,Chacarilla,La Paz,43.1193635162159,2282,0.0
-21803,2021-03-12,Chacarilla,1,Chacarilla,La Paz,43.1193635162159,2282,0.0
-21803,2021-05-13,Chacarilla,1,Chacarilla,La Paz,43.1193635162159,2282,0.0
-21803,2021-06-23,Chacarilla,1,Chacarilla,La Paz,43.1193635162159,2282,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21803,2021-03-10,Chacarilla,2,La Paz,2282
+21803,2021-03-12,Chacarilla,1,La Paz,2282
+21803,2021-05-13,Chacarilla,1,La Paz,2282
+21803,2021-06-23,Chacarilla,1,La Paz,2282

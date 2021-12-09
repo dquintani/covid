@@ -1,4 +1,4 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-31303,2021-05-20,Alalay,8,Alalay,Cochabamba,40.5140359776164,3457,0.0
-31303,2021-06-09,Alalay,12,Alalay,Cochabamba,40.5140359776164,3457,0.0
-31303,2021-06-16,Alalay,1,Alalay,Cochabamba,40.5140359776164,3457,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+31303,2021-05-20,Alalay,8,Cochabamba,3457
+31303,2021-06-09,Alalay,12,Cochabamba,3457
+31303,2021-06-16,Alalay,1,Cochabamba,3457

@@ -1,15 +1,15 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21304,2020-07-08,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2020-08-04,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2020-08-07,Calamarca,2,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2020-08-21,Calamarca,3,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2020-08-27,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-04-13,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-04-28,Calamarca,2,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-05-28,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-06-12,Calamarca,3,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-06-13,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-06-15,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-07-06,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-09-19,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
-21304,2021-12-03,Calamarca,1,Calamarca,La Paz,52.99799626992699,12352,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21304,2020-07-08,Calamarca,1,La Paz,12352
+21304,2020-08-04,Calamarca,1,La Paz,12352
+21304,2020-08-07,Calamarca,2,La Paz,12352
+21304,2020-08-21,Calamarca,3,La Paz,12352
+21304,2020-08-27,Calamarca,1,La Paz,12352
+21304,2021-04-13,Calamarca,1,La Paz,12352
+21304,2021-04-28,Calamarca,2,La Paz,12352
+21304,2021-05-28,Calamarca,1,La Paz,12352
+21304,2021-06-12,Calamarca,3,La Paz,12352
+21304,2021-06-13,Calamarca,1,La Paz,12352
+21304,2021-06-15,Calamarca,1,La Paz,12352
+21304,2021-07-06,Calamarca,1,La Paz,12352
+21304,2021-09-19,Calamarca,1,La Paz,12352
+21304,2021-12-03,Calamarca,1,La Paz,12352

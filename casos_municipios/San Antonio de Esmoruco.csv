@@ -1,5 +1,5 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-51003,2020-12-04,San Antonio de Esmoruco,5,San Antonio de Esmoruco,Potosí,47.943839292163894,2828,0.0
-51003,2021-05-24,San Antonio de Esmoruco,2,San Antonio de Esmoruco,Potosí,47.943839292163894,2828,0.0
-51003,2021-07-08,San Antonio de Esmoruco,3,San Antonio de Esmoruco,Potosí,47.943839292163894,2828,0.0
-51003,2021-07-29,San Antonio de Esmoruco,4,San Antonio de Esmoruco,Potosí,47.943839292163894,2828,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+51003,2020-12-04,San Antonio de Esmoruco,5,Potosí,2828
+51003,2021-05-24,San Antonio de Esmoruco,2,Potosí,2828
+51003,2021-07-08,San Antonio de Esmoruco,3,Potosí,2828
+51003,2021-07-29,San Antonio de Esmoruco,4,Potosí,2828

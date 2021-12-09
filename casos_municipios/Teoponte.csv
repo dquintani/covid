@@ -1,8 +1,8 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20608,2020-06-02,Teoponte,1,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2020-06-15,Teoponte,3,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2020-06-23,Teoponte,2,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2020-07-23,Teoponte,1,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2020-09-07,Teoponte,1,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2020-12-18,Teoponte,1,Teoponte,La Paz,48.6836130373485,10063,0.0
-20608,2021-03-23,Teoponte,1,Teoponte,La Paz,48.6836130373485,10063,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20608,2020-06-02,Teoponte,1,La Paz,10063
+20608,2020-06-15,Teoponte,3,La Paz,10063
+20608,2020-06-23,Teoponte,2,La Paz,10063
+20608,2020-07-23,Teoponte,1,La Paz,10063
+20608,2020-09-07,Teoponte,1,La Paz,10063
+20608,2020-12-18,Teoponte,1,La Paz,10063
+20608,2021-03-23,Teoponte,1,La Paz,10063

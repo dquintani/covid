@@ -1,14 +1,14 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-20806,2020-08-18,Jesús de Machaka,3,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2020-09-11,Jesús de Machaka,4,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2020-09-13,Jesús de Machaka,2,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2020-09-14,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2020-09-24,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2020-10-01,Jesús de Machaka,2,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-01-17,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-03-26,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-04-09,Jesús de Machaka,2,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-04-11,Jesús de Machaka,3,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-04-23,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-05-02,Jesús de Machaka,2,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
-20806,2021-05-31,Jesús de Machaka,1,Jesús de Machaca,La Paz,52.514983713621994,15416,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+20806,2020-08-18,Jesús de Machaka,3,La Paz,15416
+20806,2020-09-11,Jesús de Machaka,4,La Paz,15416
+20806,2020-09-13,Jesús de Machaka,2,La Paz,15416
+20806,2020-09-14,Jesús de Machaka,1,La Paz,15416
+20806,2020-09-24,Jesús de Machaka,1,La Paz,15416
+20806,2020-10-01,Jesús de Machaka,2,La Paz,15416
+20806,2021-01-17,Jesús de Machaka,1,La Paz,15416
+20806,2021-03-26,Jesús de Machaka,1,La Paz,15416
+20806,2021-04-09,Jesús de Machaka,2,La Paz,15416
+20806,2021-04-11,Jesús de Machaka,3,La Paz,15416
+20806,2021-04-23,Jesús de Machaka,1,La Paz,15416
+20806,2021-05-02,Jesús de Machaka,2,La Paz,15416
+20806,2021-05-31,Jesús de Machaka,1,La Paz,15416

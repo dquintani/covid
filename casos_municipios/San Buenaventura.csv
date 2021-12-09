@@ -1,58 +1,58 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21502,2020-06-23,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-06-24,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-06-26,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-06-27,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-06-30,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-07-07,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-07-22,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-07-26,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-09-01,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-09-02,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-09-03,San Buenaventura,5,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-09-05,San Buenaventura,6,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2020-09-08,San Buenaventura,5,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-04-21,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-04-27,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-05-15,San Buenaventura,4,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-05-24,San Buenaventura,11,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-05-26,San Buenaventura,25,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-06-02,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-06-18,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-06-19,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-06-20,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-02,San Buenaventura,42,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-03,San Buenaventura,11,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-04,San Buenaventura,4,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-06,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-07,San Buenaventura,6,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-08,San Buenaventura,4,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-09,San Buenaventura,9,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-10,San Buenaventura,5,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-14,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-17,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-19,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-21,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-22,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-24,San Buenaventura,6,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-25,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-29,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-07-31,San Buenaventura,7,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-08-06,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-08-10,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-08-11,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-08-12,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-08-15,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-01,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-02,San Buenaventura,9,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-03,San Buenaventura,6,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-04,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-06,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-12,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-13,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-15,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-19,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-21,San Buenaventura,3,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-09-24,San Buenaventura,2,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-10-01,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
-21502,2021-10-26,San Buenaventura,1,San Buenaventura,La Paz,52.182670956757704,9453,39.6
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21502,2020-06-23,San Buenaventura,1,La Paz,9453
+21502,2020-06-24,San Buenaventura,3,La Paz,9453
+21502,2020-06-26,San Buenaventura,2,La Paz,9453
+21502,2020-06-27,San Buenaventura,1,La Paz,9453
+21502,2020-06-30,San Buenaventura,1,La Paz,9453
+21502,2020-07-07,San Buenaventura,1,La Paz,9453
+21502,2020-07-22,San Buenaventura,1,La Paz,9453
+21502,2020-07-26,San Buenaventura,1,La Paz,9453
+21502,2020-09-01,San Buenaventura,1,La Paz,9453
+21502,2020-09-02,San Buenaventura,1,La Paz,9453
+21502,2020-09-03,San Buenaventura,5,La Paz,9453
+21502,2020-09-05,San Buenaventura,6,La Paz,9453
+21502,2020-09-08,San Buenaventura,5,La Paz,9453
+21502,2021-04-21,San Buenaventura,1,La Paz,9453
+21502,2021-04-27,San Buenaventura,1,La Paz,9453
+21502,2021-05-15,San Buenaventura,4,La Paz,9453
+21502,2021-05-24,San Buenaventura,11,La Paz,9453
+21502,2021-05-26,San Buenaventura,25,La Paz,9453
+21502,2021-06-02,San Buenaventura,3,La Paz,9453
+21502,2021-06-18,San Buenaventura,3,La Paz,9453
+21502,2021-06-19,San Buenaventura,1,La Paz,9453
+21502,2021-06-20,San Buenaventura,1,La Paz,9453
+21502,2021-07-02,San Buenaventura,42,La Paz,9453
+21502,2021-07-03,San Buenaventura,11,La Paz,9453
+21502,2021-07-04,San Buenaventura,4,La Paz,9453
+21502,2021-07-06,San Buenaventura,1,La Paz,9453
+21502,2021-07-07,San Buenaventura,6,La Paz,9453
+21502,2021-07-08,San Buenaventura,4,La Paz,9453
+21502,2021-07-09,San Buenaventura,9,La Paz,9453
+21502,2021-07-10,San Buenaventura,5,La Paz,9453
+21502,2021-07-14,San Buenaventura,2,La Paz,9453
+21502,2021-07-17,San Buenaventura,1,La Paz,9453
+21502,2021-07-19,San Buenaventura,1,La Paz,9453
+21502,2021-07-21,San Buenaventura,1,La Paz,9453
+21502,2021-07-22,San Buenaventura,3,La Paz,9453
+21502,2021-07-24,San Buenaventura,6,La Paz,9453
+21502,2021-07-25,San Buenaventura,2,La Paz,9453
+21502,2021-07-29,San Buenaventura,1,La Paz,9453
+21502,2021-07-31,San Buenaventura,7,La Paz,9453
+21502,2021-08-06,San Buenaventura,3,La Paz,9453
+21502,2021-08-10,San Buenaventura,1,La Paz,9453
+21502,2021-08-11,San Buenaventura,1,La Paz,9453
+21502,2021-08-12,San Buenaventura,2,La Paz,9453
+21502,2021-08-15,San Buenaventura,2,La Paz,9453
+21502,2021-09-01,San Buenaventura,1,La Paz,9453
+21502,2021-09-02,San Buenaventura,9,La Paz,9453
+21502,2021-09-03,San Buenaventura,6,La Paz,9453
+21502,2021-09-04,San Buenaventura,1,La Paz,9453
+21502,2021-09-06,San Buenaventura,1,La Paz,9453
+21502,2021-09-12,San Buenaventura,1,La Paz,9453
+21502,2021-09-13,San Buenaventura,2,La Paz,9453
+21502,2021-09-15,San Buenaventura,2,La Paz,9453
+21502,2021-09-19,San Buenaventura,1,La Paz,9453
+21502,2021-09-21,San Buenaventura,3,La Paz,9453
+21502,2021-09-24,San Buenaventura,2,La Paz,9453
+21502,2021-10-01,San Buenaventura,1,La Paz,9453
+21502,2021-10-26,San Buenaventura,1,La Paz,9453

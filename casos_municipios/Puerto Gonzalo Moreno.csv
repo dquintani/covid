@@ -1,41 +1,41 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-90301,2020-06-09,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-07-07,Puerto Gonzalo Moreno,12,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-07-22,Puerto Gonzalo Moreno,7,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-11,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-12,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-14,Puerto Gonzalo Moreno,5,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-15,Puerto Gonzalo Moreno,4,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-16,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-18,Puerto Gonzalo Moreno,11,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-19,Puerto Gonzalo Moreno,12,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-20,Puerto Gonzalo Moreno,12,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-21,Puerto Gonzalo Moreno,27,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-08-26,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-09-02,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-09-03,Puerto Gonzalo Moreno,5,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-09-04,Puerto Gonzalo Moreno,7,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-09-05,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2020-09-16,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-01-06,Puerto Gonzalo Moreno,24,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-17,Puerto Gonzalo Moreno,6,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-18,Puerto Gonzalo Moreno,9,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-24,Puerto Gonzalo Moreno,4,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-26,Puerto Gonzalo Moreno,7,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-27,Puerto Gonzalo Moreno,4,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-03-31,Puerto Gonzalo Moreno,8,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-02,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-03,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-08,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-09,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-11,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-13,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-14,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-04-29,Puerto Gonzalo Moreno,3,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-05-05,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-05-07,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-05-21,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-05-30,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-05-31,Puerto Gonzalo Moreno,4,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-06-17,Puerto Gonzalo Moreno,1,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
-90301,2021-09-06,Puerto Gonzalo Moreno,2,Puerto Gonzalo Moreno,Pando,47.448173450335105,9090,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+90301,2020-06-09,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2020-07-07,Puerto Gonzalo Moreno,12,Pando,9090
+90301,2020-07-22,Puerto Gonzalo Moreno,7,Pando,9090
+90301,2020-08-11,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2020-08-12,Puerto Gonzalo Moreno,2,Pando,9090
+90301,2020-08-14,Puerto Gonzalo Moreno,5,Pando,9090
+90301,2020-08-15,Puerto Gonzalo Moreno,4,Pando,9090
+90301,2020-08-16,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2020-08-18,Puerto Gonzalo Moreno,11,Pando,9090
+90301,2020-08-19,Puerto Gonzalo Moreno,12,Pando,9090
+90301,2020-08-20,Puerto Gonzalo Moreno,12,Pando,9090
+90301,2020-08-21,Puerto Gonzalo Moreno,27,Pando,9090
+90301,2020-08-26,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2020-09-02,Puerto Gonzalo Moreno,2,Pando,9090
+90301,2020-09-03,Puerto Gonzalo Moreno,5,Pando,9090
+90301,2020-09-04,Puerto Gonzalo Moreno,7,Pando,9090
+90301,2020-09-05,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2020-09-16,Puerto Gonzalo Moreno,2,Pando,9090
+90301,2021-01-06,Puerto Gonzalo Moreno,24,Pando,9090
+90301,2021-03-17,Puerto Gonzalo Moreno,6,Pando,9090
+90301,2021-03-18,Puerto Gonzalo Moreno,9,Pando,9090
+90301,2021-03-24,Puerto Gonzalo Moreno,4,Pando,9090
+90301,2021-03-26,Puerto Gonzalo Moreno,7,Pando,9090
+90301,2021-03-27,Puerto Gonzalo Moreno,4,Pando,9090
+90301,2021-03-31,Puerto Gonzalo Moreno,8,Pando,9090
+90301,2021-04-02,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2021-04-03,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-04-08,Puerto Gonzalo Moreno,2,Pando,9090
+90301,2021-04-09,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-04-11,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2021-04-13,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2021-04-14,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2021-04-29,Puerto Gonzalo Moreno,3,Pando,9090
+90301,2021-05-05,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-05-07,Puerto Gonzalo Moreno,2,Pando,9090
+90301,2021-05-21,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-05-30,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-05-31,Puerto Gonzalo Moreno,4,Pando,9090
+90301,2021-06-17,Puerto Gonzalo Moreno,1,Pando,9090
+90301,2021-09-06,Puerto Gonzalo Moreno,2,Pando,9090

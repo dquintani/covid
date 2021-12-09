@@ -1,41 +1,41 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-70804,2021-01-12,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-15,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-16,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-17,Postrervalle,5,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-19,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-20,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-22,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-27,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-28,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-01-30,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-02-03,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-02-26,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-03-03,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-03-24,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-04-07,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-02,Postrervalle,6,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-07,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-08,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-09,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-10,Postrervalle,5,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-12,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-16,Postrervalle,6,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-17,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-18,Postrervalle,5,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-27,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-06-29,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-07-02,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-08-09,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-08-11,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-10-18,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-12,Postrervalle,6,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-15,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-16,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-20,Postrervalle,2,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-24,Postrervalle,5,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-11-27,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-12-01,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-12-02,Postrervalle,6,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-12-03,Postrervalle,1,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
-70804,2021-12-04,Postrervalle,3,Postrer Valle,Santa Cruz,53.4277448806748,2400,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+70804,2021-01-12,Postrervalle,2,Santa Cruz,2400
+70804,2021-01-15,Postrervalle,2,Santa Cruz,2400
+70804,2021-01-16,Postrervalle,2,Santa Cruz,2400
+70804,2021-01-17,Postrervalle,5,Santa Cruz,2400
+70804,2021-01-19,Postrervalle,2,Santa Cruz,2400
+70804,2021-01-20,Postrervalle,1,Santa Cruz,2400
+70804,2021-01-22,Postrervalle,1,Santa Cruz,2400
+70804,2021-01-27,Postrervalle,2,Santa Cruz,2400
+70804,2021-01-28,Postrervalle,1,Santa Cruz,2400
+70804,2021-01-30,Postrervalle,2,Santa Cruz,2400
+70804,2021-02-03,Postrervalle,1,Santa Cruz,2400
+70804,2021-02-26,Postrervalle,1,Santa Cruz,2400
+70804,2021-03-03,Postrervalle,1,Santa Cruz,2400
+70804,2021-03-24,Postrervalle,1,Santa Cruz,2400
+70804,2021-04-07,Postrervalle,2,Santa Cruz,2400
+70804,2021-06-02,Postrervalle,6,Santa Cruz,2400
+70804,2021-06-07,Postrervalle,2,Santa Cruz,2400
+70804,2021-06-08,Postrervalle,3,Santa Cruz,2400
+70804,2021-06-09,Postrervalle,2,Santa Cruz,2400
+70804,2021-06-10,Postrervalle,5,Santa Cruz,2400
+70804,2021-06-12,Postrervalle,1,Santa Cruz,2400
+70804,2021-06-16,Postrervalle,6,Santa Cruz,2400
+70804,2021-06-17,Postrervalle,3,Santa Cruz,2400
+70804,2021-06-18,Postrervalle,5,Santa Cruz,2400
+70804,2021-06-27,Postrervalle,3,Santa Cruz,2400
+70804,2021-06-29,Postrervalle,1,Santa Cruz,2400
+70804,2021-07-02,Postrervalle,1,Santa Cruz,2400
+70804,2021-08-09,Postrervalle,1,Santa Cruz,2400
+70804,2021-08-11,Postrervalle,1,Santa Cruz,2400
+70804,2021-10-18,Postrervalle,2,Santa Cruz,2400
+70804,2021-11-12,Postrervalle,6,Santa Cruz,2400
+70804,2021-11-15,Postrervalle,2,Santa Cruz,2400
+70804,2021-11-16,Postrervalle,2,Santa Cruz,2400
+70804,2021-11-20,Postrervalle,2,Santa Cruz,2400
+70804,2021-11-24,Postrervalle,5,Santa Cruz,2400
+70804,2021-11-27,Postrervalle,3,Santa Cruz,2400
+70804,2021-12-01,Postrervalle,3,Santa Cruz,2400
+70804,2021-12-02,Postrervalle,6,Santa Cruz,2400
+70804,2021-12-03,Postrervalle,1,Santa Cruz,2400
+70804,2021-12-04,Postrervalle,3,Santa Cruz,2400

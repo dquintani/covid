@@ -1,24 +1,24 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-21104,2020-06-02,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-06-26,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-06-27,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-06-28,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-02,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-07,Palos Blancos,4,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-11,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-14,Palos Blancos,7,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-16,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-07-22,Palos Blancos,2,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-08-01,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-08-04,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-08-05,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-08-12,Palos Blancos,4,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2020-08-29,Palos Blancos,5,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-04-30,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-05-13,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-07-05,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-07-28,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-08-18,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-09-01,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-10-21,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
-21104,2021-11-21,Palos Blancos,1,Palos Blancos,La Paz,50.90698546454221,26809,22.2
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+21104,2020-06-02,Palos Blancos,1,La Paz,26809
+21104,2020-06-26,Palos Blancos,1,La Paz,26809
+21104,2020-06-27,Palos Blancos,1,La Paz,26809
+21104,2020-06-28,Palos Blancos,1,La Paz,26809
+21104,2020-07-02,Palos Blancos,1,La Paz,26809
+21104,2020-07-07,Palos Blancos,4,La Paz,26809
+21104,2020-07-11,Palos Blancos,1,La Paz,26809
+21104,2020-07-14,Palos Blancos,7,La Paz,26809
+21104,2020-07-16,Palos Blancos,1,La Paz,26809
+21104,2020-07-22,Palos Blancos,2,La Paz,26809
+21104,2020-08-01,Palos Blancos,1,La Paz,26809
+21104,2020-08-04,Palos Blancos,1,La Paz,26809
+21104,2020-08-05,Palos Blancos,1,La Paz,26809
+21104,2020-08-12,Palos Blancos,4,La Paz,26809
+21104,2020-08-29,Palos Blancos,5,La Paz,26809
+21104,2021-04-30,Palos Blancos,1,La Paz,26809
+21104,2021-05-13,Palos Blancos,1,La Paz,26809
+21104,2021-07-05,Palos Blancos,1,La Paz,26809
+21104,2021-07-28,Palos Blancos,1,La Paz,26809
+21104,2021-08-18,Palos Blancos,1,La Paz,26809
+21104,2021-09-01,Palos Blancos,1,La Paz,26809
+21104,2021-10-21,Palos Blancos,1,La Paz,26809
+21104,2021-11-21,Palos Blancos,1,La Paz,26809

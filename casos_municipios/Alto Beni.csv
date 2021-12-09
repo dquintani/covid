@@ -1,9 +1,9 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-22002,2020-07-04,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2020-07-21,Alto Beni,2,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2020-09-11,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2021-02-26,Alto Beni,3,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2021-06-10,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2021-06-17,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2021-08-04,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
-22002,2021-09-10,Alto Beni,1,Alto Beni,La Paz,47.508013803572,12123,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+22002,2020-07-04,Alto Beni,1,La Paz,12123
+22002,2020-07-21,Alto Beni,2,La Paz,12123
+22002,2020-09-11,Alto Beni,1,La Paz,12123
+22002,2021-02-26,Alto Beni,3,La Paz,12123
+22002,2021-06-10,Alto Beni,1,La Paz,12123
+22002,2021-06-17,Alto Beni,1,La Paz,12123
+22002,2021-08-04,Alto Beni,1,La Paz,12123
+22002,2021-09-10,Alto Beni,1,La Paz,12123

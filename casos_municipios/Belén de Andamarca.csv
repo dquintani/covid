@@ -1,7 +1,7 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-41202,2021-03-11,Belén de Andamarca,5,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
-41202,2021-05-13,Belén de Andamarca,4,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
-41202,2021-05-20,Belén de Andamarca,4,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
-41202,2021-05-23,Belén de Andamarca,4,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
-41202,2021-05-28,Belén de Andamarca,1,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
-41202,2021-07-24,Belén de Andamarca,1,Belén de Andamarca,Oruro,48.4433889191664,2127,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+41202,2021-03-11,Belén de Andamarca,5,Oruro,2127
+41202,2021-05-13,Belén de Andamarca,4,Oruro,2127
+41202,2021-05-20,Belén de Andamarca,4,Oruro,2127
+41202,2021-05-23,Belén de Andamarca,4,Oruro,2127
+41202,2021-05-28,Belén de Andamarca,1,Oruro,2127
+41202,2021-07-24,Belén de Andamarca,1,Oruro,2127

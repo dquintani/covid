@@ -1,17 +1,17 @@
-cod_ine,fecha,municipio_x,confirmados,municipio_y,departamento,sdi,poblacion,urbanizacion
-40802,2020-08-08,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-01-06,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-01-20,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-01-23,Pampa Aullagas,5,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-01-28,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-02-04,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-02-10,Pampa Aullagas,3,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-03-10,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-05-25,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-05-29,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-06-01,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-06-10,Pampa Aullagas,1,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-06-16,Pampa Aullagas,4,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-07-15,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-08-03,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
-40802,2021-08-12,Pampa Aullagas,2,Pampa Aullagas,Oruro,47.3183014420741,2852,0.0
+cod_ine,fecha,municipio,confirmados,departamento,poblacion
+40802,2020-08-08,Pampa Aullagas,1,Oruro,2852
+40802,2021-01-06,Pampa Aullagas,1,Oruro,2852
+40802,2021-01-20,Pampa Aullagas,2,Oruro,2852
+40802,2021-01-23,Pampa Aullagas,5,Oruro,2852
+40802,2021-01-28,Pampa Aullagas,2,Oruro,2852
+40802,2021-02-04,Pampa Aullagas,1,Oruro,2852
+40802,2021-02-10,Pampa Aullagas,3,Oruro,2852
+40802,2021-03-10,Pampa Aullagas,1,Oruro,2852
+40802,2021-05-25,Pampa Aullagas,1,Oruro,2852
+40802,2021-05-29,Pampa Aullagas,1,Oruro,2852
+40802,2021-06-01,Pampa Aullagas,1,Oruro,2852
+40802,2021-06-10,Pampa Aullagas,1,Oruro,2852
+40802,2021-06-16,Pampa Aullagas,4,Oruro,2852
+40802,2021-07-15,Pampa Aullagas,2,Oruro,2852
+40802,2021-08-03,Pampa Aullagas,2,Oruro,2852
+40802,2021-08-12,Pampa Aullagas,2,Oruro,2852
