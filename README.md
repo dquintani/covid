@@ -17,3 +17,7 @@
 ![Activos](https://github.com/dquintani/covid/blob/main/graficas/activos.jpg?raw=true)
 
 ![Resumen nacional](https://github.com/dquintani/covid/blob/main/graficas/resumen_nacional.jpg?raw=true)
+
+![Resumen nacional normalizado](https://github.com/dquintani/covid/blob/main/graficas/resumen_nacional_normalizado.jpg?raw=true)
+
+![Casos muertes normalizados](https://github.com/dquintani/covid/blob/main/graficas/casos_muertes_normalizado_dept.jpg?raw=true)
