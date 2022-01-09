@@ -21,3 +21,10 @@
 ![Resumen nacional normalizado](https://github.com/dquintani/covid/blob/main/graficas/resumen_nacional_normalizado.jpg?raw=true)
 
 ![Casos muertes normalizados](https://github.com/dquintani/covid/blob/main/graficas/casos_muertes_normalizado_dept.jpg?raw=true)
+
+![Letalidad 1](https://github.com/dquintani/covid/blob/main/graficas/letalidad_overlay.jpg?raw=true)
+
+![Exceso bolivia](https://github.com/dquintani/covid/blob/main/graficas/exceso_bolivia1.jpg?raw=true)
+
+![SCZ comparacion](https://github.com/dquintani/covid/blob/main/graficas/Santa_cruz_comparacion_casos_grid.jpg?raw=true)
+
