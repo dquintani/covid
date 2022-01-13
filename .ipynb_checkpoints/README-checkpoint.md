@@ -28,3 +28,8 @@
 
 ![SCZ comparacion](https://github.com/dquintani/covid/blob/main/graficas/Santa_cruz_comparacion_casos_grid.jpg?raw=true)
 
+![casos per capita 100 hab](https://github.com/dquintani/covid/blob/main/graficas/casos_pc.jpg?raw=true)
+
+![ocupacion hosp detallado](https://github.com/dquintani/covid/blob/main/graficas/ocupacion_hosp_detallado.jpg?raw=true)
+
+![hospitalizados solo bolivia](https://github.com/dquintani/covid/blob/main/graficas/hospitalizado_solobol.jpg?raw=true)
