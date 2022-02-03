@@ -33,3 +33,5 @@
 ![ocupacion hosp detallado](https://github.com/dquintani/covid/blob/main/graficas/ocupacion_hosp_detallado.jpg?raw=true)
 
 ![hospitalizados solo bolivia](https://github.com/dquintani/covid/blob/main/graficas/hospitalizado_solobol.jpg?raw=true)
+
+![hospitalizados todo bolivia stack](https://github.com/dquintani/covid/blob/main/graficas/hospitalizados_stack.jpg?raw=true)
